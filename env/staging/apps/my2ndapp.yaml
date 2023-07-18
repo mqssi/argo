@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/mqssi/mboeks.git
+    repoURL: https://github.com/mqssi/argo.git
     targetRevision: HEAD
     path: env/staging/my2ndapp
   destination:
