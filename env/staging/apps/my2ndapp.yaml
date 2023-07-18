@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/mqssi/mboeks.git
     targetRevision: HEAD
-    path: environments/staging/my2ndapp
+    path: env/staging/my2ndapp
   destination:
     server: https://kubernetes.default.svc
   syncPolicy:
